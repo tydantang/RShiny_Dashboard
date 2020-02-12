@@ -1,5 +1,5 @@
 # RShiny_Dashboard
-An interactive dashboard allows basic data exploration
+## An interactive dashboard allows basic data exploration
 
 Please find attached three files for the RShiny application:
 

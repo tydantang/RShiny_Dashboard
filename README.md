@@ -11,3 +11,5 @@ Key app features:
 1. The user can observe boxplots of multiple attributes, and can further filter by certain demographic types or treatments.
 2. A trend plot is also available for day 0, 30, 60 and 90.
 3. The user can download plots as PDF.
+
+https://i.imgur.com/AdABUJa.png?1

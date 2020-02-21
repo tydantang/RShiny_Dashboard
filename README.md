@@ -12,4 +12,3 @@ Key app features:
 2. A trend plot is also available for day 0, 30, 60 and 90.
 3. The user can download plots as PDF.
 
-https://i.imgur.com/AdABUJa.png?1
